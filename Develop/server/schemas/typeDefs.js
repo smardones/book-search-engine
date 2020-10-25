@@ -7,7 +7,7 @@ const typeDefs = gql`
         description: String
         title: String
         img: String
-        link: string
+        link: String
     }
 
     type User {
@@ -29,7 +29,7 @@ const typeDefs = gql`
         description: String
         title: String
         img: String
-        link: string 
+        link: String 
     }
 
     type Query {
